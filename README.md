@@ -1,4 +1,4 @@
-Example: Embedded Jetty w/ JSP Support 
+Example: Embedded Jetty w/ JSP Support test
 ======================================
 
 This is a maven project, to build it:
